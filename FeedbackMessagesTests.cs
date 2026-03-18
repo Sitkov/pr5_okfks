@@ -21,7 +21,7 @@ namespace SeleniumTest
 
         // наличие сообщений об успешном выполнении операций
         [Fact]
-        public void Test1_PresenceOfSuccessMessages()
+        public void PresenceOfSuccessMessages()
         {
             Login();
 
@@ -38,7 +38,7 @@ namespace SeleniumTest
 
         // наличие сообщений об ошибках
         [Fact]
-        public void Test2_PresenceOfErrorMessages()
+        public void PresenceOfErrorMessages()
         {
             _webDriver.Url = "https://test.webmx.ru/";
 
@@ -53,7 +53,7 @@ namespace SeleniumTest
 
         // понятность и однозначность сообщений
         [Fact]
-        public void Test3_ClarityAndUnambiguityOfMessages()
+        public void ClarityAndUnambiguityOfMessages()
         {
             _webDriver.Url = "https://test.webmx.ru/";
 
@@ -71,7 +71,7 @@ namespace SeleniumTest
 
         // корректность реакции интерфейса на подтверждение или отмену действий
         [Fact]
-        public void Test4_CorrectInterfaceReaction_ToActionCancellation()
+        public void CorrectInterfaceReaction()
         {
             Login();
 

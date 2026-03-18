@@ -26,7 +26,7 @@ namespace SeleniumTest
         }
 
         [Fact]
-        public void Test2_LogoutScenario()
+        public void LogoutScenario()
         {
             _webDriver.Url = "https://test.webmx.ru/";
 
@@ -43,7 +43,7 @@ namespace SeleniumTest
         }
 
         [Fact]
-        public void Test3_ReactionToErroneousActions()
+        public void ReactionToErroneousActions()
         {
             _webDriver.Url = "https://test.webmx.ru/";
 
@@ -58,7 +58,7 @@ namespace SeleniumTest
         }
 
         [Fact]
-        public void Test4_StateChangeAfterSuccessfulAuth()
+        public void StateChangeAfterSuccessfulAuth()
         {
             _webDriver.Url = "https://test.webmx.ru/";
 

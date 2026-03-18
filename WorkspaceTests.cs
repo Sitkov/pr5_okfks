@@ -21,7 +21,7 @@ namespace SeleniumTest
 
         // Отображение основной части интерфейса после входа
         [Fact]
-        public void Test1_MainInterfaceDisplayAfterLogin()
+        public void MainInterfaceDisplayAfterLogin()
         {
             Login();
 
@@ -36,7 +36,7 @@ namespace SeleniumTest
 
         // доступность базовых элементов управления
         [Fact]
-        public void Test2_BasicControlElementsAvailability()
+        public void BasicControlElementsAvailability()
         {
             Login();
 
@@ -51,7 +51,7 @@ namespace SeleniumTest
 
         // корректность переходов между рабочими состояниями
         [Fact]
-        public void Test3_TransitionsBetweenWorkingStates()
+        public void TransitionsBetweenWorkingStates()
         {
             Login();
 
@@ -68,7 +68,7 @@ namespace SeleniumTest
 
         //изменение содержимого страницы в зависимости от действий пользователя
         [Fact]
-        public void Test4_PageContentChangesDependingOnUserActions()
+        public void PageContentChangesDependingOnUserActions()
         {
             Login();
 

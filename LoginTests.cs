@@ -61,7 +61,7 @@ namespace SeleniumTest
 
         // Успешный вход 
         [Fact]
-        public void ValidLogin_ShouldHideAuthAndShowNotes()
+        public void ValidLogin_ShowNotes()
         {
             _webDriver.Url = "https://test.webmx.ru/";
 

@@ -21,7 +21,7 @@ namespace SeleniumTest
 
         // какие действия доступны владельцу данных
         [Fact]
-        public void Test1_ActionsAvailableToDataOwner()
+        public void ActionsDataOwner()
         {
             Login();
 
@@ -35,7 +35,7 @@ namespace SeleniumTest
 
         // какие действия ограничены
         [Fact]
-        public void Test2_RestrictedActions_ForNewUnsavedData()
+        public void RestrictedActionsData()
         {
             Login();
 
@@ -48,7 +48,7 @@ namespace SeleniumTest
 
         //изменяется ли интерфейс при переходе между ролями или пользовательскими состояниями
         [Fact]
-        public void Test3_InterfaceChanges_OnStateTransition()
+        public void InterfaceChanges()
         {
             Login();
 
@@ -61,7 +61,7 @@ namespace SeleniumTest
 
         // можно ли через интерфейс обнаружить ошибочное предоставление избыточных возможностей
         [Fact]
-        public void Test4_CheckForExcessivePrivileges()
+        public void CheckForExcessivePrivileges()
         {
             Login();
 

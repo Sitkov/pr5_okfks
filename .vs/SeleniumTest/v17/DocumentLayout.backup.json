@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\st310-09\\Downloads\\SeleniumTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2EE70163-0BEE-470A-B337-20489C020EC6}|SeleniumTest.csproj|c:\\users\\st310-09\\downloads\\seleniumtest\\useraccounttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EE70163-0BEE-470A-B337-20489C020EC6}|SeleniumTest.csproj|solutionrelative:useraccounttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2EE70163-0BEE-470A-B337-20489C020EC6}|SeleniumTest.csproj|c:\\users\\st310-09\\downloads\\seleniumtest\\workspacetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EE70163-0BEE-470A-B337-20489C020EC6}|SeleniumTest.csproj|solutionrelative:workspacetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE70163-0BEE-470A-B337-20489C020EC6}|SeleniumTest.csproj|c:\\users\\st310-09\\downloads\\seleniumtest\\useraccounttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE70163-0BEE-470A-B337-20489C020EC6}|SeleniumTest.csproj|solutionrelative:useraccounttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2EE70163-0BEE-470A-B337-20489C020EC6}|SeleniumTest.csproj|c:\\users\\st310-09\\downloads\\seleniumtest\\searchandfiltertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +23,12 @@
       "RelativeMoniker": "D:0:0:{2EE70163-0BEE-470A-B337-20489C020EC6}|SeleniumTest.csproj|solutionrelative:feedbackmessagestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EE70163-0BEE-470A-B337-20489C020EC6}|SeleniumTest.csproj|c:\\users\\st310-09\\downloads\\seleniumtest\\dataoperationstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EE70163-0BEE-470A-B337-20489C020EC6}|SeleniumTest.csproj|solutionrelative:dataoperationstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2EE70163-0BEE-470A-B337-20489C020EC6}|SeleniumTest.csproj|c:\\users\\st310-09\\downloads\\seleniumtest\\accesstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EE70163-0BEE-470A-B337-20489C020EC6}|SeleniumTest.csproj|solutionrelative:accesstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE70163-0BEE-470A-B337-20489C020EC6}|SeleniumTest.csproj|c:\\users\\st310-09\\downloads\\seleniumtest\\dataoperationstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE70163-0BEE-470A-B337-20489C020EC6}|SeleniumTest.csproj|solutionrelative:dataoperationstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 244,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -48,20 +48,20 @@
               "RelativeDocumentMoniker": "FeedbackMessagesTests.cs",
               "ToolTip": "C:\\Users\\st310-09\\Downloads\\SeleniumTest\\FeedbackMessagesTests.cs",
               "RelativeToolTip": "FeedbackMessagesTests.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-18T07:52:12.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "AccessTests.cs",
               "DocumentMoniker": "C:\\Users\\st310-09\\Downloads\\SeleniumTest\\AccessTests.cs",
               "RelativeDocumentMoniker": "AccessTests.cs",
               "ToolTip": "C:\\Users\\st310-09\\Downloads\\SeleniumTest\\AccessTests.cs",
               "RelativeToolTip": "AccessTests.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-18T07:48:52.823Z",
               "EditorCaption": ""
@@ -74,14 +74,14 @@
               "RelativeDocumentMoniker": "SearchAndFilterTests.cs",
               "ToolTip": "C:\\Users\\st310-09\\Downloads\\SeleniumTest\\SearchAndFilterTests.cs",
               "RelativeToolTip": "SearchAndFilterTests.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwDYAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-18T07:46:35.431Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DataOperationsTests.cs",
               "DocumentMoniker": "C:\\Users\\st310-09\\Downloads\\SeleniumTest\\DataOperationsTests.cs",
               "RelativeDocumentMoniker": "DataOperationsTests.cs",
@@ -89,31 +89,30 @@
               "RelativeToolTip": "DataOperationsTests.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T07:39:43.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-18T07:39:43.975Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "WorkspaceTests.cs",
               "DocumentMoniker": "C:\\Users\\st310-09\\Downloads\\SeleniumTest\\WorkspaceTests.cs",
               "RelativeDocumentMoniker": "WorkspaceTests.cs",
               "ToolTip": "C:\\Users\\st310-09\\Downloads\\SeleniumTest\\WorkspaceTests.cs",
               "RelativeToolTip": "WorkspaceTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-18T07:37:23.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UserAccountTests.cs",
               "DocumentMoniker": "C:\\Users\\st310-09\\Downloads\\SeleniumTest\\UserAccountTests.cs",
               "RelativeDocumentMoniker": "UserAccountTests.cs",
-              "ToolTip": "C:\\Users\\st310-09\\Downloads\\SeleniumTest\\UserAccountTests.cs*",
-              "RelativeToolTip": "UserAccountTests.cs*",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwCEAAABPAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\st310-09\\Downloads\\SeleniumTest\\UserAccountTests.cs",
+              "RelativeToolTip": "UserAccountTests.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwD0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-18T07:30:12.176Z",
               "EditorCaption": ""
@@ -126,7 +125,7 @@
               "RelativeDocumentMoniker": "LoginTests.cs",
               "ToolTip": "C:\\Users\\st310-09\\Downloads\\SeleniumTest\\LoginTests.cs",
               "RelativeToolTip": "LoginTests.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAkwEMAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwD8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-18T06:19:25.445Z",
               "EditorCaption": ""

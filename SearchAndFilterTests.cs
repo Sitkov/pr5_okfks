@@ -21,7 +21,7 @@ namespace SeleniumTest
 
         // находить нужные данные
         [Fact]
-        public void Test1_FindSpecificData_UsingSearch()
+        public void FindSpecificData_UsingSearch()
         {
             Login();
 
@@ -37,7 +37,7 @@ namespace SeleniumTest
 
         //ограничивать набор отображаемых объектов
         [Fact]
-        public void Test2_RestrictDisplayedObjects_UsingFilters()
+        public void RestrictDisplayedObjects_UsingFilters()
         {
             Login();
 
@@ -52,7 +52,7 @@ namespace SeleniumTest
 
         // менять состав видимых данных в зависимости от выбранных условий
         [Fact]
-        public void Test3_ChangeVisibleDataComposition_BasedOnConditions()
+        public void ChangeVisibleDataComposition()
         {
             Login();
 
